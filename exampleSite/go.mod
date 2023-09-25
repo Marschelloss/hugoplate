@@ -25,4 +25,5 @@ require (
 	github.com/gethugothemes/hugo-modules/tab v0.0.0-20230913031841-c3e6f1eb8b7b // indirect
 	github.com/gethugothemes/hugo-modules/table-of-contents v0.0.0-20230913031841-c3e6f1eb8b7b // indirect
 	github.com/gethugothemes/hugo-modules/videos v0.0.0-20230913031841-c3e6f1eb8b7b // indirect
+	github.com/zeon-studio/hugoplate v0.0.0-20230919033707-39e487943d6d // indirect
 )
